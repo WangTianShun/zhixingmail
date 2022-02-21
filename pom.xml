@@ -20,5 +20,6 @@
         <module>zhixingmall-coupon</module>
         <module>zhixingmall-order</module>
         <module>zhixingmall-member</module>
+        <module>zhixingmall-admin</module>
     </modules>
 </project>
